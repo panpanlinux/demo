@@ -10,6 +10,4 @@ Added details
 One modification just for fun
 Update on a branch
 
-Small edit
-
-More tweaks have come
+Edit on master for rebasing test

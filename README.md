@@ -1,7 +1,7 @@
 # Demo example
 
 Simple readme
-One modification
+One modification for tests
 
 ## Heading 2
 
